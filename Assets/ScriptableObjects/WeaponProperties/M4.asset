@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e77f9afce066b4090439adaca0e947, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: 
+  rHandPos: {x: 0.204, y: -0.129, z: 0.198}
+  rHandRot: {x: -11.449, y: -2.325, z: -84.816}
+  weaponPrefab: {fileID: 8883335770095495496, guid: 02d786e83bfcd134a8094cbd573a9ca0,
+    type: 3}
+  Weapon_pos: {x: 0.155, y: -0.03199989, z: -87.318}
+  Weapon_rot: {x: -1.054, y: 282.434, z: 0}
