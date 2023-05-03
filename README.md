@@ -17,4 +17,5 @@ Step 3. Enter your AppId from Photon Dashboard <br />
 Step 4. Enjoy <br />
  
 ## Thirdparty
-Photon 2 - https://assetstore.unity.com/packages/tools/network/pun-2-free-119922
+Photon 2 - https://assetstore.unity.com/packages/tools/network/pun-2-free-119922 <br />
+Mixamo for animations - https://www.mixamo.com
